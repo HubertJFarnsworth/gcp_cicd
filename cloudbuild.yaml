@@ -1,0 +1,5 @@
+steps:
+- name: 'ls'
+  args: ['-al']
+  dir: 'src/functions'
+
